@@ -1,0 +1,1 @@
+open VS in background: code . &
